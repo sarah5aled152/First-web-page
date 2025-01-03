@@ -14,7 +14,7 @@ This is my first web page created using HTML and CSS. It showcases basic structu
 ```plaintext
 project-folder/
 ├── index.html   # Main HTML file
-├── styles.css   # CSS file for styling
+├── css          # CSS folder for styling
 └── assets/      # Folder for images and other assets
 ```
 
