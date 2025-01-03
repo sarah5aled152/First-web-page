@@ -15,7 +15,7 @@ This is my first web page created using HTML and CSS. It showcases basic structu
 project-folder/
 ├── index.html   # Main HTML file
 ├── css          # CSS folder for styling
-└── images/      # Folder for images and other assets
+└── images/      # Folder for images  
 ```
 
 ## How to View
